@@ -1,0 +1,341 @@
+# Build Folders
+bin/
+obj/
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Mono Auto Generated Files
+mono_crash.*
+
+# Windows image file caches
+Thumbs.db
+ehthumbs.db
+
+# Folder config file
+Desktop.ini
+
+# Recycle Bin used on file shares
+$RECYCLE.BIN/
+
+# VS Code directories
+.vscode/
+.vscode/*
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Windows shortcuts
+*.lnk
+
+# JetBrains Rider
+.idea/
+*.sln.iml
+
+# Rider settings directory
+.idea/
+
+# Rider plugin directories
+.idea/**/tasks.xml
+.idea/**/workspace.xml
+.idea/**/gradle.xml
+.idea/**/libraries
+.idea/**/jsLibraryMappings.xml
+.idea/**/vcs.xml
+.idea/**/vcs*
+.idea/**/vcs.log
+.idea/**/diff.xml
+.idea/**/encodings.xml
+.idea/**/configurations.xml
+.idea/**/watcherTasks.xml
+.idea/**/dictionaries
+.idea/**/tasks
+
+# Rider workspace
+.idea/**/tasks.xml
+.idea/**/workspace.xml
+
+# Rider code style
+.idea/codeStyles/
+
+# Rider code style
+.idea/**/codeStyles
+
+# Rider inspection profiles
+.idea/inspectionProfiles/
+
+# Rider dictionaries
+.idea/dictionaries/
+
+# Rider code style settings
+.idea/codeStyles.xml
+
+# Rider code style
+.idea/codeStyleSettings.xml
+
+# Rider run configs
+.idea/**/runConfigurations/
+
+# Rider UI Designer artifacts
+.idea/**/uiDesigner.xml
+
+# Rider ui designer
+.idea/uiDesigner.xml
+
+# Rider code styles
+.idea/**/codeStyles.xml
+
+# Rider IDE preferences
+.idea/.Rider*
+
+# Rider IDE preferences
+.idea/.idea.modules
+
+# Rider IDE preferences
+.idea/.idea.runConfigurations
+
+# Rider IDE preferences
+.idea/.idea.shared
+
+# Rider IDE preferences
+.idea/sonar/
+
+# Rider IDE preferences
+.idea/vcs.xml
+
+# Rider IDE preferences
+.idea/scopes/
+
+# Rider IDE preferences
+.idea/fileTemplates/
+
+# Rider IDE preferences
+.idea/inspectionProfiles
+
+# Rider IDE preferences
+.idea/libraries/
+
+# Rider IDE preferences
+.idea/modules.xml
+
+# Rider IDE preferences
+.idea/workspace.xml
+
+# Rider IDE preferences
+.idea/gradle.xml
+
+# Rider IDE preferences
+.idea/tasks.xml
+
+# Rider IDE preferences
+.idea/copyright/
+
+# Rider IDE preferences
+.idea/checkstyle-idea.xml
+
+# Rider IDE preferences
+.idea/dataSources/
+
+# Rider IDE preferences
+.idea/dataSources.ids/
+
+# Rider IDE preferences
+.idea/dictionaries/
+
+# Rider IDE preferences
+.idea/php.xml
+
+# Rider IDE preferences
+.idea/jsLibraryMappings.xml
+
+# Rider IDE preferences
+.idea/scopes/
+
+# Rider IDE preferences
+.idea/checkstyle-idea.xml
+
+# Rider IDE preferences
+.idea/fileTemplates/
+
+# Rider IDE preferences
+.idea/gradle.xml
+
+# Rider IDE preferences
+.idea/jsLibraryMappings.xml
+
+# Rider IDE preferences
+.idea/libraries/
+
+# Rider IDE preferences
+.idea/modules.xml
+
+# Rider IDE preferences
+.idea/scopes/
+
+# Rider IDE preferences
+.idea/tasks.xml
+
+# Rider IDE preferences
+.idea/uiDesigner.xml
+
+# Rider IDE preferences
+.idea/vcs.xml
+
+# Rider IDE preferences
+.idea/workspace.xml
+
+# Rider IDE preferences
+.idea/codeStyles/
+
+# Rider IDE preferences
+.idea/copyright/
+
+# Rider IDE preferences
+.idea/dataSources/
+
+# Rider IDE preferences
+.idea/dataSources.ids/
+
+# Rider IDE preferences
+.idea/dictionaries/
+
+# Rider IDE preferences
+.idea/gradle.xml
+
+# Rider IDE preferences
+.idea/jsLibraryMappings.xml
+
+# Rider IDE preferences
+.idea/libraries/
+
+# Rider IDE preferences
+.idea/modules.xml
+
+# Rider IDE preferences
+.idea/scopes/
+
+# Rider IDE preferences
+.idea/tasks.xml
+
+# Rider IDE preferences
+.idea/uiDesigner.xml
+
+# Rider IDE preferences
+.idea/vcs.xml
+
+# Rider IDE preferences
+.idea/workspace.xml
+
+# Rider IDE preferences
+.idea/codeStyles/
+
+# Rider IDE preferences
+.idea/copyright/
+
+# Rider IDE preferences
+.idea/dataSources/
+
+# Rider IDE preferences
+.idea/dataSources.ids/
+
+# Rider IDE preferences
+.idea/dictionaries/
+
+# Rider IDE preferences
+.idea/gradle.xml
+
+# Rider IDE preferences
+.idea/jsLibraryMappings.xml
+
+# Rider IDE preferences
+.idea/libraries/
+
+# Rider IDE preferences
+.idea/modules.xml
+
+# Rider IDE preferences
+.idea/scopes/
+
+# Rider IDE preferences
+.idea/tasks.xml
+
+# Rider IDE preferences
+.idea/uiDesigner.xml
+
+# Rider IDE preferences
+.idea/vcs.xml
+
+# Rider IDE preferences
+.idea/workspace.xml
+
+# Rider IDE preferences
+.idea/codeStyles/
+
+# Rider IDE preferences
+.idea/copyright/
+
+# Rider IDE preferences
+.idea/dataSources/
+
+# Rider IDE preferences
+.idea/dataSources.ids/
+
+# Rider IDE preferences
+.idea/dictionaries/
+
+# Rider IDE preferences
+.idea/gradle.xml
+
+# Rider IDE preferences
+.idea/jsLibraryMappings.xml
+
+# Rider IDE preferences
+.idea/libraries/
+
+# Rider IDE preferences
+.idea/modules.xml
+
+# Rider IDE preferences
+.idea/scopes/
+
+# Rider IDE preferences
+.idea/tasks.xml
+
+# Rider IDE preferences
+.idea/uiDesigner.xml
+
+# Rider IDE preferences
+.idea/vcs.xml
+
+# Rider IDE preferences
+.idea/workspace.xml
+
+# Rider IDE preferences
+.idea/codeStyles/
+
+# Rider IDE preferences
+.idea/copyright/
+
+# Rider IDE preferences
+.idea/dataSources/
+
+# Rider IDE preferences
+.idea/dataSources.ids/
+
+# Rider IDE preferences
+.idea/dictionaries/
+
+# Rider IDE preferences
+.idea/gradle.xml
+
+# Rider IDE preferences
+.idea/jsLibraryMappings.xml
+
+# Rider 
