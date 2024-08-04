@@ -1,5 +1,6 @@
 {
     "Projects": [
-        "ObjectInitializers/ObjectInitializers.csproj"
+        "ObjectInitializers/ObjectInitializers.csproj",
+        "ReadonlyProperties/ReadonlyProperties.csproj"
     ]
 }
